@@ -41,7 +41,7 @@ Noms des étudiants :
 * METANGMO Dongmo Berssaine
 * NGUETSOP Richinelle Laurence
 
-Date du jour : 02/02/2026
+Date du jour : 04/02/2026
 
 Tout est ok ? 
 Faites donc un **commit** et **pushez** moi tout ça sur master (sur **votre** dépôt donc, puisque vous l'avez forké).
