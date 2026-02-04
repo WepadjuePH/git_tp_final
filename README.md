@@ -39,7 +39,7 @@ Dans ce second exercice, vous allez modifier les lignes qui suivent dans le READ
 Noms des étudiants : 
 *  WEPADJUE Prince Hybrel
 * METANGMO Dongmo Berssaine
-* NGUETSOP Richinelle Laurence
+* NGUETSOP Richinelle Laurence 
 
 Date du jour : 04/02/2026
 
